@@ -1,4 +1,7 @@
 # belajar_git
+
+skksksksk
+
 <<<<<<< HEAD
 asdasds
 =======
